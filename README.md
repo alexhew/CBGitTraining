@@ -1,2 +1,3 @@
 # CBGitTraining
-Use for Git Training
+Use for Git Training.
+
